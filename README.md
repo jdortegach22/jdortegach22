@@ -9,7 +9,7 @@ I am currently a **Lecturer in Media and Communication** at the **University of 
 
 ## 🛠 Coding & Research Applications
 
-For my **PhD**, I used **R** to **scrape, process, and analyze** a dataset of **17,688 news articles** from: *El Tiempo*, *El Espectador*, *Semana*, and *La Silla Vacía*. 
+For my **PhD**, I used **R** to **process, and analyze** a dataset of **17,688 news articles** from: *El Tiempo*, *El Espectador*, *Semana*, and *La Silla Vacía*. 
 
 I applied **Structural Topic Modeling (STM)** to analyze these articles, identifying key themes in the Colombian media coverage.
 
@@ -20,7 +20,6 @@ In one of my papers, [published open access in *Media, War & Conflict* (2025)](h
 **Exploring new ways to apply computational methods to analyze political discourse online.**
 
 **Expanding my coding skills in Python**🐍, focusing on:
-  - 👨‍💻 **Web Scraping** – Using `Selenium`, `BeautifulSoup`, and `Scrapy` for media data collection.
   - 📈 **Text Analysis** – Implementing topic modeling, sentiment analysis, and data visualization techniques.
 
 ## 📬 Contact & Profiles
